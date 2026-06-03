@@ -1,0 +1,98 @@
+FULL NAME
+Sachin Singh
+
+EMAIL
+singhsachin0517@gmail.com
+
+PHONE
++91 6392635656
+
+PORTFOLIO
+https://portfolio-one-sigma-95.vercel.app
+
+GITHUB
+https://github.com/sachiinn05
+
+LINKEDIN
+https://www.linkedin.com/in/sachin-singh-491252252
+
+LEETCODE
+https://leetcode.com/u/sachinsingh17/
+
+LIVE PROJECT - BYTEFLAME
+https://byteflame.in
+
+BYTEFLAME FRONTEND REPOSITORY
+https://github.com/sachiinn05/byteflame
+
+BYTEFLAME BACKEND REPOSITORY
+https://github.com/sachiinn05/ByteFlame_Backend
+
+EDUCATION
+B.Tech in Computer Science Engineering
+GL Bajaj Institute of Technology and Management
+2021 - 2025
+CGPA: 7.1
+
+SKILLS
+C, C++, JavaScript, HTML, CSS
+React.js, Node.js, Express.js
+MongoDB, REST APIs, Socket.io
+AWS EC2, Cloudflare
+Git, GitHub, VS Code
+DSA, OOPs, Software Engineering
+
+LEETCODE STATS
+Problems Solved: 388+
+Contest Rating: 1479
+Top Percentile: 51.16%
+
+PROJECTS
+
+1. BYTEFLAME
+Tech Stack:
+React.js, Tailwind CSS, Node.js, Express.js,
+MongoDB, Socket.io, AWS EC2, Cloudflare
+
+Features:
+- JWT Authentication
+- Real-time Chat
+- Redux Toolkit
+- REST APIs
+- AWS Deployment
+- Nginx + PM2
+
+2. CHATTER UP WEB APP
+Tech Stack:
+HTML, CSS, JavaScript, Node.js,
+Express.js, Socket.io, MongoDB
+
+Features:
+- Multi-user Chat
+- Real-time Messaging
+- Message Persistence
+- Secure User Management
+
+3. JOB PORTAL WEB APP
+Tech Stack:
+EJS, Node.js, Express.js, MongoDB, CSS
+
+Features:
+- Role-based Authentication
+- Job Posting & Applications
+- Email Notifications
+- Responsive UI
+
+CERTIFICATIONS
+- Coding Ninjas C++
+- Coding Ninjas DSA
+- Coding Ninjas Frontend Development
+
+ABOUT ME
+Computer Science Engineering graduate with strong
+foundations in Data Structures, Algorithms, and
+Full-Stack Web Development. Experienced in building
+scalable web applications using React.js, Node.js,
+Express.js, MongoDB, Socket.io, AWS EC2, and
+Cloudflare. Passionate about creating optimized,
+user-centric software and solving complex problems.

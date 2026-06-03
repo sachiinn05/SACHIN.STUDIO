@@ -1,0 +1,146 @@
+FULL NAME
+Sachin Singh
+
+EMAIL
+singhsachin0517@gmail.com
+
+PHONE
++91 6392635656
+
+PORTFOLIO
+https://portfolio-one-sigma-95.vercel.app
+
+GITHUB
+https://github.com/sachiinn05
+
+LINKEDIN
+https://www.linkedin.com/in/sachin-singh-491252252
+
+LEETCODE
+https://leetcode.com/u/sachinsingh17/
+
+CODING NINJAS
+https://www.naukri.com/code360/profile/c8bad018-c73a-402a-b7ec-bc4f5e6de1a6
+
+────────────────────────────────────
+
+FEATURED PROJECTS
+
+BYTEFLAME
+Live Demo:
+https://byteflame.in
+
+Frontend Repository:
+https://github.com/sachiinn05/ByteFlameUI-UX
+
+Backend Repository:
+https://github.com/sachiinn05/ByteFlame_Backend
+
+Tech Stack:
+React.js, Redux Toolkit, Tailwind CSS,
+Node.js, Express.js, MongoDB, Socket.io,
+JWT Authentication, AWS EC2, Cloudflare
+
+────────────────────────────────────
+
+NETFLIX-GPT
+
+Repository:
+https://github.com/sachiinn05/netflix-gpt
+
+Tech Stack:
+React.js, Redux Toolkit, Tailwind CSS,
+Firebase Authentication, TMDB API,
+Gemini API
+
+────────────────────────────────────
+
+JOB PORTAL WEB APP
+
+Repository:
+https://github.com/sachiinn05/Job-Portal-WebAPPs
+
+Tech Stack:
+Node.js, Express.js, MongoDB,
+EJS, Nodemailer, HTML, CSS
+
+────────────────────────────────────
+
+EDUCATION
+
+GL Bajaj Institute of Technology and Management
+B.Tech in Computer Science Engineering
+2021 - 2025
+CGPA: 7.22
+
+Raj English School
+Intermediate (Class XII)
+71.4%
+
+Maa Vaishno Modern Public School
+Matriculation (Class X)
+78.2%
+
+────────────────────────────────────
+
+SKILLS
+
+Languages:
+C, C++, JavaScript, HTML5, CSS3
+
+Frontend:
+React.js, Redux Toolkit, Tailwind CSS,
+Bootstrap, EJS
+
+Backend:
+Node.js, Express.js, REST APIs,
+JWT Authentication, Socket.io,
+Nodemailer
+
+Database:
+MongoDB, Mongoose
+
+Cloud & DevOps:
+AWS EC2, Cloudflare, Linux,
+Git, GitHub, VS Code
+
+Core Concepts:
+Data Structures & Algorithms,
+OOPs, DBMS, Operating Systems,
+Software Engineering, MVC Architecture,
+RBAC, Agile Development
+
+────────────────────────────────────
+
+LEETCODE STATS
+
+Username: sachinsingh17
+Problems Solved: 388+
+Contest Rating: 1479
+Top Percentile: 51.16%
+
+────────────────────────────────────
+
+CERTIFICATIONS
+
+• Coding Ninjas C++
+• Coding Ninjas Data Structures & Algorithms
+• Coding Ninjas Frontend Development
+
+────────────────────────────────────
+
+ABOUT ME
+
+Full-Stack and Backend Developer with hands-on
+experience building scalable web applications
+using React.js, Node.js, Express.js, and MongoDB.
+
+Experienced in REST APIs, JWT Authentication,
+Socket.io, Redux Toolkit, AWS EC2, and Cloudflare.
+
+Strong foundation in Data Structures & Algorithms,
+OOPs, DBMS, Operating Systems, and Software
+Engineering.
+
+Passionate about building production-ready
+applications and solving complex problems.
