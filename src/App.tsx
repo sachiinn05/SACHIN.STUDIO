@@ -599,13 +599,8 @@ function Systems({
       <div className="mt-5 grid gap-5 lg:grid-cols-[.8fr_1.2fr]">
         <div>
           <h2 className="text-balance text-4xl font-semibold leading-tight sm:text-5xl">
-            Case studies, not project cards.
+            Case studies and project cards.
           </h2>
-          <p className="mt-5 max-w-xl text-lg leading-8 text-white/60">
-            The strongest proof in the resume is the progression from chat mechanics to
-            workflow software to a deployed real-time platform. This module presents each
-            project like a product system.
-          </p>
         </div>
         <div className="space-y-4">
           {projects.map((project, index) => (
@@ -690,10 +685,6 @@ function StackMap() {
           <h2 className="max-w-3xl text-balance text-4xl font-semibold leading-tight sm:text-5xl">
             A practical stack for shipping full-stack products.
           </h2>
-          <p className="max-w-md leading-7 text-white/60">
-            Not a wall of badges. This is the operating capability behind the work:
-            interface, API, data, realtime, cloud, and reasoning.
-          </p>
         </div>
         <div className="mt-10 grid gap-4 md:grid-cols-2 xl:grid-cols-3">
           {stackGroups.map((group, index) => {
@@ -745,10 +736,7 @@ function EducationSection() {
           <h2 className="text-balance text-4xl font-semibold leading-tight sm:text-5xl">
             Academic foundation behind the engineering work.
           </h2>
-          <p className="mt-5 max-w-xl text-lg leading-8 text-white/60">
-            A clear education path from Class 10 and Class 12 into Computer Science
-            Engineering, backed by core CS subjects and product-building execution.
-          </p>
+          
         </div>
         <div className="relative">
           <div aria-hidden className="absolute left-5 top-5 hidden h-[calc(100%-2.5rem)] w-px bg-gradient-to-b from-white/70 via-white/20 to-transparent sm:block" />
@@ -803,10 +791,7 @@ function Proof({ repos }: { repos: Repo[] }) {
           <h2 className="text-balance text-4xl font-semibold leading-tight sm:text-5xl">
             Coding signal, repos, and consistency.
           </h2>
-          <p className="mt-5 max-w-xl text-lg leading-8 text-white/60">
-            The profile combines implementation depth with problem-solving reps:
-            LeetCode, GitHub repositories, deployed systems, and fundamentals.
-          </p>
+          
           <div className="mt-8 grid grid-cols-2 gap-3">
             <SignalCard label="LeetCode" value="388+ solved" href={links.leetcode} />
             <SignalCard label="Contest" value="1479 rating" href={links.leetcode} />
@@ -922,11 +907,7 @@ function Credentials() {
           <h2 className="text-balance text-4xl font-semibold leading-tight sm:text-5xl">
             Education, certifications, and profile data from the resume.
           </h2>
-          <p className="mt-5 max-w-2xl text-lg leading-8 text-white/60">
-            This layer gives recruiters the factual scan path: degree, schools,
-            scores, certifications, coding profiles, contact details, and the exact
-            technical foundation behind the projects.
-          </p>
+         
           <div className="mt-8 grid gap-3">
             {education.map((item, index) => (
               <motion.article
@@ -1326,7 +1307,7 @@ function Footer() {
   return (
     <footer className="mx-auto flex max-w-7xl flex-col gap-4 px-4 py-10 text-sm text-white/40 sm:px-6 md:flex-row md:items-center md:justify-between lg:px-8">
       <span>Sachin Singh Engineering Studio</span>
-      <span>Built as a product system, not a portfolio template.</span>
+     
     </footer>
   );
 }
